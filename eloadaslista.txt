@@ -1,22 +1,16 @@
 Hétfő:
-17:00 A Pál utcai fiúk
-
+18:00 A Pál utcai fiúk
 Kedd:
 18:00 Dzsungel könyve
-
 Szerda:
-16:00 A diktátor
-
+20:00 A diktátor
 Csötörtök:
 20:00 Frankestein
-
 Péntek:
-17:00 Dzsungel könyve
-
+18:00 Dzsungel könyve
 Szombat:
 14:00 A Pál utcai fiúk
 18:00 A diktátor
-
 Vasárnap:
-15:00 Frankestein
-20:00 Dzsungel könyve
+14:00 Frankestein
+18:00 Dzsungel könyve
