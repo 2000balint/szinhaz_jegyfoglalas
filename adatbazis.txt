@@ -1,0 +1,14 @@
+Nap;Időpont;Színdarab
+Hétfő;18:00;Pál utcai fiúk
+Kedd;18:00;Dzsungel könyve
+Szerda;20:00;A diktátor
+Csütörtök;20:00;Frankenstein
+Péntek;18:00;Dzsungel könyve
+Szombat;14:00;Pál utcai fiúk
+Szombat;18:00;A diktátor
+Vasárnap;14:00;Frankenstein
+Vasárnap;18:00;Dzsungel könyve
+
+
+
+
