@@ -34,5 +34,21 @@ with open("helyfoglalas.txt", "rt", encoding="utf-8") as f:
  
         nezoter = [x for x in tartalom]
  
-        for y in range(0, len(nezoter), 10):
-            print(" ".join(nezoter[y:y+10]))
+        for y in range(0, len(nezoter), 21):
+            print(" ".join(nezoter[y:y+21]))
+
+sor = int(input("Add meg a sort: "))
+szek = int(input("Add meg a széket: "))
+
+index = (sor - 1) * 21 + (szek - 1)
+
+if 0 <= index < len(nezoter):
+    if nezoter[index] != "X":
+        nezoter[index] = "X"
+        print("A helyet lefoglaltad!")
+    else:
+        print("Ez a hely már foglalt!")
+else:
+    print("Nincs ilyen hely a nézőtéren!")
+with open("helyfoglalas.txt", "w", encoding="utf-8") as f:
+    f.write(" ".join(nezoter))
