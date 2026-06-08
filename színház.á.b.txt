@@ -1,0 +1,11 @@
+Színház jegy foglalás: Gaál Ákos, Tóth Bálint
+
+-jegy foglalás
+-színdarab kiválasztása
+-idő kiválasztása
+-ülőhely kiválasztása
+-ugyanazt a helyet nem ehet többször lefoglalni
+
+- Vígh színház
+- A Pál utcai fiúk, Dzsungel könyve, A diktátor, Frankenstein
+
